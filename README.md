@@ -32,36 +32,34 @@ A simple yet powerful network file transfer tool for seamless sharing of files a
 ![second:](src/gitClone.png)
 
 3. Build the tool:
-![third:](src/gitAtrribute.png)
+![third:](src/gitAttribute.png)
 
 3. Run the tool:
 ![fourth:](src/gitBuild.png)
 
-Usage
-Sending Files
-bash
-Copy code
+## Usage
+### Sending Files
 dotnet run -- send -f /path/to/file.txt -t 192.168.1.100
-Receiving Files
-bash
-Copy code
+
+### Receiving Files
 dotnet run -- receive -p 8888
-For more detailed usage instructions, refer to the User Guide.
 
-Configuration
-The tool can be configured using a configuration file or command-line options. Refer to Configuration Guide for details.
+## Configuration
+The tool can be configured using a configuration file or command-line options. 
 
-Security
-All file transfers are encrypted using AES-256 encryption.
-Authentication ensures that only authorized users can send or receive files.
-For additional security measures, refer to the Security Guide.
-Contributing
+## Security
++ All file transfers are encrypted using [AES-256](https://nvlpubs.nist.gov/nistpubs/fips/nist.fips.197.pdf) encryption.
++ Authentication ensures that only authorized users can send or receive files.
++ For additional security measures, refer to the Security Guide.
+
+## Contributing
 Contributions are welcome! Follow these steps to contribute:
 
-Fork the repository.
-Create a new branch: git checkout -b feature/new-feature.
-Make your changes and commit them: git commit -m 'Add new feature'.
-Push to the branch: git push origin feature/new-feature.
-Submit a pull request.
-License
+1. Fork the repository.
+2. Create a new branch: **git checkout -b feature/new-feature.**
+3. Make your changes and commit them: **git commit -m 'Add new feature'.**
+4. Push to the branch: **git push origin feature/new-feature.**
+5. Submit a pull request.
+ 
+## License
 This project is licensed under the MIT License - see the LICENSE file for details.
