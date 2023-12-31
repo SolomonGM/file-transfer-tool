@@ -9,19 +9,20 @@ A simple yet powerful network file transfer tool for seamless sharing of files a
 + Configuration
 + Security
 + Contributing
-+ License
-+ Features
++ License 
 
-**Cross-Platform Compatibility:** Works on Windows, macOS, and Linux.
-Fast and Efficient: Transfer files over the network with high speed and efficiency.
-Secure: Utilizes encryption and authentication to ensure secure file transfers.
-Command-Line Interface (CLI): Easy-to-use CLI for quick and straightforward operations.
-Resume Support: Pause and resume file transfers without losing progress.
-Multi-Threaded: Perform multiple file transfers concurrently for improved performance.
-Detailed Logging: Keep track of transfer details and errors with comprehensive logs.
-Installation
-Prerequisites
-.NET Core SDK
+## Features
+- **Cross-Platform Compatibility:** Works on Windows, macOS, and Linux.
+- **Fast and Efficient:** Transfer files over the network with high speed and efficiency.
+- **Secure:** Utilizes encryption and authentication to ensure secure file transfers.
+- **Command-Line Interface (CLI):** Easy-to-use CLI for quick and straightforward operations.
+- **Resume Support:** Pause and resume file transfers without losing progress.
+- **Multi-Threaded:** Perform multiple file transfers concurrently for improved performance.
+- **Detailed Logging:** Keep track of transfer details and errors with comprehensive logs.
+  
+## Installation
+### Prerequisites
++ [.NET SDK](https://dotnet.microsoft.com/download).NET Core SDK
 Steps
 Clone the repository:
 
