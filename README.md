@@ -24,7 +24,7 @@ A simple yet powerful network file transfer tool for seamless sharing of files a
 ### Prerequisites
 + [.NET Core SDK](https://dotnet.microsoft.com/download)
 
-###Steps
+### Steps
 1.Clone the repository:
 ![Navigate to the project directory:](src/gitDownload.png)
 
