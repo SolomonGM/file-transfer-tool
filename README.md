@@ -39,10 +39,10 @@ A simple yet powerful network file transfer tool for seamless sharing of files a
 
 ## Usage
 ### Sending Files
-dotnet run -- send -f /path/to/file.txt -t 192.168.1.100
+> dotnet run -- send -f /path/to/file.txt -t 192.168.1.100
 
 ### Receiving Files
-dotnet run -- receive -p 8888
+> dotnet run -- receive -p 8888
 
 ## Configuration
 The tool can be configured using a configuration file or command-line options. 
