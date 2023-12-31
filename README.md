@@ -1,4 +1,4 @@
-# Network File Transfer Tool
+ # Network File Transfer Tool
 
 A simple yet powerful network file transfer tool for seamless sharing of files across devices.
 
@@ -25,22 +25,15 @@ A simple yet powerful network file transfer tool for seamless sharing of files a
 + [.NET Core SDK](https://dotnet.microsoft.com/download)
 
 ### Steps
-1.Clone the repository:
-![Navigate to the project directory:](src/gitDownload.png)
+1. Clone the repository:
+![first:](src/gitDownload.png)
 
-bash
-Copy code
-cd network-file-transfer-tool
-Build the tool:
+2. Navigate to the project directory:
+![second:](src/gitClone.png)
 
-bash
-Copy code
-dotnet build -c Release
-Run the tool:
+3. Build the tool:
+![third:](src/gitAtrribute.png)
 
-bash
-Copy code
-dotnet run -- -h
 Usage
 Sending Files
 bash
