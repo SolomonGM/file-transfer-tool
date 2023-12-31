@@ -34,6 +34,9 @@ A simple yet powerful network file transfer tool for seamless sharing of files a
 3. Build the tool:
 ![third:](src/gitAtrribute.png)
 
+3. Run the tool:
+![fourth:](src/gitBuild.png)
+
 Usage
 Sending Files
 bash
