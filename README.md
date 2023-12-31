@@ -1,17 +1,18 @@
-Network File Transfer Tool
+# Network File Transfer Tool
 
 A simple yet powerful network file transfer tool for seamless sharing of files across devices.
 
 Table of Contents
 Features
-Installation
-Usage
-Configuration
-Security
-Contributing
-License
-Features
-Cross-Platform Compatibility: Works on Windows, macOS, and Linux.
++ Installation
++ Usage
++ Configuration
++ Security
++ Contributing
++ License
++ Features
+  
+- **Cross-Platform Compatibility: Works on Windows, macOS, and Linux.
 Fast and Efficient: Transfer files over the network with high speed and efficiency.
 Secure: Utilizes encryption and authentication to ensure secure file transfers.
 Command-Line Interface (CLI): Easy-to-use CLI for quick and straightforward operations.
