@@ -22,7 +22,8 @@ A simple yet powerful network file transfer tool for seamless sharing of files a
   
 ## Installation
 ### Prerequisites
-+ [.NET SDK](https://dotnet.microsoft.com/download).NET Core SDK
++ [.NET Core SDK](https://dotnet.microsoft.com/download)
+
 Steps
 Clone the repository:
 
